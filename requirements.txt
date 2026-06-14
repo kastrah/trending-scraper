@@ -1,0 +1,3 @@
+requests>=2.31
+# TikTok (local Mac only — needs a real browser):
+#   pip install TikTokApi && playwright install chromium
